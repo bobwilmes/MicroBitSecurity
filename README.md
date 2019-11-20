@@ -47,5 +47,8 @@ __Version History:__
 __0.0.9__
 - Pre-release code
 
-[Milestone 1](https://github.com/bobwilmes/MicroBitSecurity/Milestone1.md)  
-[Milestone 2](https://github.com/bobwilmes/MicroBitSecurity/Milestone2.md)
+Class Milestones
+
+[Milestone 1](https://raw.githubusercontent.com/bobwilmes/MicroBitSecurity/Milestone1.md)  
+
+[Milestone 2](htttps://raw.githubusercontent.com/bobwilmes/MicroBitSecurity/Milestone2.md)

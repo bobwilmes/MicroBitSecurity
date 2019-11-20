@@ -34,9 +34,9 @@ The Micro Bit has a panel with a 5 by 5 element LED display. The authentication 
 By demonstrating the use of a pattern of LED's on the Micro Bit device, this technique could be expanded for other uses of cues for visual authentication. For example, the camera on the Pixel 3 mobile phone could be programmed to read the pattern of LED's, thereby removing potential errors in the process of capturing the on/off status on the Android application. This would potentially be a novel way for IoT devices to securely authenticate if they lacked keyboards or other sensory inputs.
 
 ## Images
-![Google Pixel 3](https://github.com/bobwilmes/MicroBitSecurity/images/Pixel3.png)
+![Google Pixel 3](https://raw.githubusercontent.com/bobwilmes/MicroBitSecurity/images/Pixel3.png)
 Picture 1 - Google Pixel 3 mobile phone
 
 
-![BBC MicroBit LED Array](https://github.com/bobwilmes/MicroBitSecurity/images/MicroBit.png)
+![BBC MicroBit LED Array](https://raw.githubusercontent.com/bobwilmes/MicroBitSecurity/images/MicroBit.png)
 Picture 2 - BBC Micro:Bit IoT Device
