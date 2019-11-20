@@ -49,6 +49,6 @@ __0.0.9__
 
 Class Milestones
 
-[Milestone 1](https://github.com/bobwilmes/blob/master/MicroBitSecurity/Milestone1.md)  
+[Milestone 1](https://github.com/bobwilmes/MicroBitSecurity/blob/master/Milestone1.md)  
 
-[Milestone 2](https://github.com/bobwilmes/blob/master/MicroBitSecurity/Milestone2.md)
+[Milestone 2](https://github.com/bobwilmes/MicroBitSecurity/blob/master/Milestone2.md)
