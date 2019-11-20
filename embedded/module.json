@@ -1,0 +1,12 @@
+{
+  "name": "boomer",
+  "version": "0.0.1",
+  "bin": "./source",
+  "private": true,
+  "description": "Copyrigh (c) 2019, Boomertronics, LLC All Rights Reserved",
+  "author": "Bob Wilmes",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}

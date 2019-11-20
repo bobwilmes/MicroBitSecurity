@@ -1,0 +1,79 @@
+{
+  "name": "bbc-microbit-armcc",
+  "version": "1.0.0",
+  "inherits": {
+    "nordic-nrf51822-armcc": "^1.0.0"
+  },
+  "description": "Official mbed build target for the BBC micro:bit chip.",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "keywords": [
+    "armcc",
+    "mbed-official"
+  ],
+  "similarTo": [
+    "arm",
+    "mkit"
+  ],
+  "config": {
+    "nrf51822": {
+      "ram_size": "16K"
+    },
+    "image": {
+      "heap": {
+        "warning_threshold": 1024
+      }
+    },
+    "hardware": {
+      "clocks": {
+        "nrf": {
+          "lfclk_src": 0
+        }
+      },
+      "pins": {
+        "PAD3": "p1",
+        "PAD2": "p2",
+        "PAD1": "p3",
+        "COL1": "p4",
+        "COL2": "p5",
+        "COL3": "p6",
+        "COL4": "p7",
+        "COL5": "p8",
+        "COL6": "p9",
+        "COL7": "p10",
+        "COL8": "p11",
+        "COL9": "p12",
+        "ROW1": "p13",
+        "ROW2": "p14",
+        "ROW3": "p15",
+        "BUTTON_A": "p17",
+        "TGT_NRESET": "p19",
+        "MOSI": "p21",
+        "MISO": "p22",
+        "SCK": "p23",
+        "TGT_TX": "p24",
+        "TGT_RX": "p25",
+        "BUTTON_B": "p26",
+        "ACCEL_INT2": "p27",
+        "ACCEL_INT1": "p28",
+        "MAG_INT1": "p29",
+        "RX_PIN_NUMBER": "TGT_RX",
+        "TX_PIN_NUMBER": "TGT_TX",
+        "CTS_PIN_NUMBER": "31",
+        "RTS_PIN_NUMBER": "31",
+        "USBTX": "TX_PIN_NUMBER",
+        "USBRX": "RX_PIN_NUMBER",
+        "LED1": "PAD1",
+        "LED2": "PAD2",
+        "LED3": "PAD3",
+        "LED4": "P0_16",
+        "I2C_SDA0": "p30",
+        "I2C_SCL0": "p0"
+      }
+    }
+  }
+}
